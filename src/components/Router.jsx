@@ -1,7 +1,7 @@
 
 import { createBrowserRouter } from "react-router-dom";
 import Contact from "./Contact";
-import Experience from "./Experience";
+import Experience from "./Education";
 import Home from "./Home";
 import App from "./App";
 import Skills from "./Skills";
@@ -21,8 +21,8 @@ export const router = createBrowserRouter([
         element: <Contact />,
       },
       {
-        path: "experience",
-        element: <Experience />,
+        path: "education",
+        element: <Education />,
       },
       {
         path: "Skillls",

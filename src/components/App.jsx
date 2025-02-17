@@ -1,5 +1,5 @@
 
-import Experience from "./Experience";
+import Experience from "./Education";
 import Navbar from "./Navbar";
 import Skills from "./Skills";
 import Project from "./Project";
