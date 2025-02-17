@@ -1,5 +1,5 @@
 
-import Experience from "./Education";
+import Education from "./Education";
 import Navbar from "./Navbar";
 import Skills from "./Skills";
 import Project from "./Project";
@@ -10,7 +10,7 @@ return (
     <>
 <Navbar />
 <Outlet />
-<Experience/>
+<Education/>
 
 <Skills/>
 <Project/>
