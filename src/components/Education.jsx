@@ -1,7 +1,7 @@
 import React from 'react';
 import qualification from "./qualification";
 
-function Experience() {
+function Education() {
   return (
     // <div className='ac'> center
     <div className='center'>
@@ -23,4 +23,4 @@ function Experience() {
   );
 }
 
-export default Experience;
+export default Education;
